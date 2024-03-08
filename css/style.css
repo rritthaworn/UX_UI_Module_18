@@ -7,7 +7,7 @@ h1 {
   color: black;
 }
 header {
-  background-color: #eee;
+  background-color: #F4BBBB;
   padding: 15px;
 }
 header ul {
@@ -24,6 +24,30 @@ header p {
 .heroImg {
   background-color: #EBEBEB;
   padding: 100px 15px;
+}
+.Masoniverse {
+  display: flex;
+  width: 467px;
+  height: 310px;
+  justify-content: center;
+  align-items: center;
+  flex-shrink: 0;
+}
+.BarterBuddies {
+  display: flex;
+  width: 467px;
+  height: 310px;
+  justify-content: center;
+  align-items: center;
+  flex-shrink: 0;
+}
+.PawPrintPartners{
+  display: flex;
+  width: 467px;
+  height: 310px;
+  justify-content: center;
+  align-items: center;
+  flex-shrink: 0;
 }
 .meImg {
   width: 408px;
@@ -47,9 +71,9 @@ button {
   border-radius: 4px;
 }
 footer {
-  background-color: #373738;
+  background-color: #F4BBBB;
   padding: 5px;
-  color: white;
+  color: black;
 }
 footer ul {
   list-style: none;
